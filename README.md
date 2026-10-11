@@ -3,6 +3,10 @@
 A machine learning project that classifies household **solar-investment likelihood**
 as Low, Moderate, or High using synthetic household energy and financial data.
 
+## 🚀 Live Demo
+
+[Open the SmartSolar Recommender](https://smartsolarrecommender-d8lcc47pviz69tge9n7bwh.streamlit.app)
+
 ---
 
 ## 📊 Dataset
