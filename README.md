@@ -1,4 +1,4 @@
-# ☀️ Solar Panel Recommendation ML
+# ☀️ Solar Panel Recommendation System
 
 A machine learning project that classifies household **solar-investment likelihood**
 as Low, Moderate, or High using synthetic household energy and financial data.
