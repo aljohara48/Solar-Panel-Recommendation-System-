@@ -62,6 +62,12 @@ test accuracy.
 
 ---
 
+## 💻 Source Code
+
+- [Machine Learning Notebook](notebooks/solar_panel_recommendation_ml.ipynb)
+
+---
+
 ## 🛠️ Technologies
 
 - Python
